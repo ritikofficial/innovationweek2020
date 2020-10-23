@@ -4,7 +4,7 @@ GEMS Singapore Student Council is proud to be hosting the school’s first Innov
 
 ## Purpose of this Repo
 
-We have two branches on this repo; master & gh-pages.
+We have two branches on this repositery; master & gh-pages.
 
 Master will be used to host all the final projects of the Innovation Challenge and currently has resources for participants.
 
